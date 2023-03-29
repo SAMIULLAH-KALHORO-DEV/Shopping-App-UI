@@ -1,4 +1,4 @@
-# travel_app
+# Shopping App UI Design
 
 A new Flutter project.
 
